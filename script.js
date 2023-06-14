@@ -1,5 +1,5 @@
 function displayInformation() {
-  var name = "John Doe";
+  var name = "사람";
   var age = 30;
   var occupation = "Web Developer";
 
