@@ -17,6 +17,7 @@ p {
 button {
   padding: 10px 20px;
   font-size: 16px;
+  font-family: 'Nanum Gothic Coding', monospace;
   background-color: #4CAF50;
   color: #fff;
   border: none;
